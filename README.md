@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Kevin Alexis banner" />
-</p>
 
 <h1 align="center">Kevin Alexis</h1>
 <p align="center">
@@ -9,10 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-alexis-1079-4873033a3" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="45" width="45" />
+    <img src="https://cdn.simpleicons.org/linkedin/111111" height="45" width="45" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:bx57599@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234984871-0a6d4b18-3f2b-4d2a-8fe6-38b9b8b7b756.png" alt="Email" height="45" width="45" />
+    <img src="https://cdn.simpleicons.org/gmail/111111" height="45" width="45" alt="Gmail" />
   </a>
 </p>
 
