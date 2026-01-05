@@ -2,7 +2,7 @@
   <h1 style="font-size: 50px; font-weight: bold; margin-bottom: 0;">Kevin Alexis</h1>
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3591F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web+%C2%B7+Mobile+%C2%B7+Backend;An%C3%A1lisis+de+Requerimientos+%26+L%C3%B3gica+de+Sistemas;Dise%C3%B1o+UI%2FUX+(Figma+%2B+Illustrator)"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3591F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Web+%C2%B7+Mobile+%C2%B7+Backend;Analisis+de+Requerimientos+y+Logica+de+Sistemas;Diseno+UI%2FUX+(Figma+%2B+Illustrator)"
     alt="Typing SVG"
   />
 </div>
@@ -17,18 +17,29 @@
   </a>
 </div>
 
----
+<hr />
 
-## 👨‍💻 Sobre mí
+<div align="center">
+  <img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=950&repeat=false&cursor=false&lines=Y+recuerda%3A+si+puedes+imaginarlo%2C+puedes+programarlo."
+  alt="Quote"
+/>
+<br />
+<b>— Alejandro Taboada</b>
+</div>
+
+<hr />
+
+## Sobre mí
 Más que escribir código, me enfoco en construir soluciones completas: desde el análisis y diagramación, hasta el desarrollo y despliegue.
 
-- 🧠 **Lógica & Análisis:** levantamiento de requerimientos, arquitectura y modelado de bases de datos.
-- 🎨 **Diseño UI/UX:** Figma e Illustrator para prototipado y diseño de interfaces.
-- 🛠️ **Full Stack:** móviles con Flutter y backends con NestJS / Node.js / PHP.
+- Lógica y análisis: levantamiento de requerimientos, arquitectura y modelado de bases de datos.
+- Diseño UI/UX: Figma e Illustrator para prototipado y diseño de interfaces.
+- Desarrollo Full Stack: móviles con Flutter y backends con NestJS / Node.js / PHP.
 
----
+<hr />
 
-## 🛠️ Arsenal Tecnológico
+## Arsenal Tecnológico
 
 ### Frontend & Mobile
 <p align="center">
@@ -45,23 +56,21 @@ Más que escribir código, me enfoco en construir soluciones completas: desde el
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,figma,ai" />
 </p>
 
----
+<hr />
 
-## 🚀 Proyectos Destacados
-- 🌱 **AgroTech (Principal)** — Plataforma integral para gestión agrícola: cultivos, insumos, monitoreo y reportes.  
+## Proyectos Destacados
+- AgroTech (Principal) — Plataforma integral para gestión agrícola: cultivos, insumos, monitoreo y reportes.  
   https://github.com/KEVINALEXIS1079/AgroTech
 
-- 💰 **Prendería** — Sistema administrativo para gestión de préstamos, clientes, inventario y cálculo de intereses.  
+- Prendería — Sistema administrativo para gestión de préstamos, clientes, inventario y cálculo de intereses.  
   https://github.com/KEVINALEXIS1079/prenderia
 
----
+<hr />
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KEVINALEXIS1079&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINALEXIS1079&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
+## GitHub Stats
+## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KEVINALEXIS1079&theme=tokyonight&hide_border=true&background=00000000" height="150" alt="streak graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=KEVINALEXIS1079&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINALEXIS1079&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Streak](https://streak-stats.demolab.com?user=KEVINALEXIS1079&theme=tokyonight&hide_border=true)
