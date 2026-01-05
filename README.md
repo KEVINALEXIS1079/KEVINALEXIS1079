@@ -1,60 +1,67 @@
+<div align="center">
+  <h1 style="font-size: 50px; font-weight: bold; margin-bottom: 0;">Kevin Alexis</h1>
 
-<h1 align="center">Kevin Alexis</h1>
-<p align="center">
-  <b>Full Stack Developer</b> · Web · Mobile · Backend
-</p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3591F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web+%C2%B7+Mobile+%C2%B7+Backend;An%C3%A1lisis+de+Requerimientos+%26+L%C3%B3gica+de+Sistemas;Dise%C3%B1o+UI%2FUX+(Figma+%2B+Illustrator)"
+    alt="Typing SVG"
+  />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/kevin-alexis-1079-4873033a3" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/111111" height="45" width="45" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bx57599@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/111111" height="45" width="45" alt="Gmail" />
+  &nbsp;
+  <a href="mailto:bx57599@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
-<hr />
+---
 
-## About
-Full Stack developer focused on building complete solutions: **web**, **mobile**, and **backend**.  
-Strong on **requirements**, **system logic**, **database modeling**, and clean project structure.
+## 👨‍💻 Sobre mí
+Más que escribir código, me enfoco en construir soluciones completas: desde el análisis y diagramación, hasta el desarrollo y despliegue.
 
-<hr />
+- 🧠 **Lógica & Análisis:** levantamiento de requerimientos, arquitectura y modelado de bases de datos.
+- 🎨 **Diseño UI/UX:** Figma e Illustrator para prototipado y diseño de interfaces.
+- 🛠️ **Full Stack:** móviles con Flutter y backends con NestJS / Node.js / PHP.
 
-## Tech Stack
+---
+
+## 🛠️ Arsenal Tecnológico
+
+### Frontend & Mobile
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,html,css,tailwind" />
 </p>
 
-<hr />
+### Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,prisma" />
+</p>
 
-## Featured Projects
-- **AgroTech** — Agricultural management platform: crops, activities, inputs, monitoring and reporting.  
+### Data, Tools & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,figma,ai" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+- 🌱 **AgroTech (Principal)** — Plataforma integral para gestión agrícola: cultivos, insumos, monitoreo y reportes.  
   https://github.com/KEVINALEXIS1079/AgroTech
 
-- **Prendería** — Management system for clients, items, rentals and interests.  
+- 💰 **Prendería** — Sistema administrativo para gestión de préstamos, clientes, inventario y cálculo de intereses.  
   https://github.com/KEVINALEXIS1079/prenderia
 
-<hr />
+---
 
-## GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KEVINALEXIS1079&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINALEXIS1079&layout=compact" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KEVINALEXIS1079&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINALEXIS1079&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=KEVINALEXIS1079" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KEVINALEXIS1079&theme=tokyonight&hide_border=true&background=00000000" height="150" alt="streak graph" />
+</div>
